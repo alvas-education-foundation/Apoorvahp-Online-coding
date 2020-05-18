@@ -25,3 +25,5 @@ Sleep Interval for thread t1
 Sleep Interval for thread t2
 Message per cycle
 No of cycles
+
+3.write a c programme to check whether two strings are anagrame or not
